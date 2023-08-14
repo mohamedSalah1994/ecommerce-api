@@ -32,12 +32,12 @@ class CategorySeeder extends Seeder
             ],
             [
                 'name' => 'Category 4',
-                'name_ar' => '4',
+                'name_ar' => '4 الفئة',
                 'image' => 'category-4.jpg',
             ],
             [
                 'name' => 'Category 5',
-                'name_ar' => '5',
+                'name_ar' => '5 الفئة',
                 'image' => 'category-5.jpg',
             ],
         ];
